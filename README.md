@@ -1,7 +1,7 @@
 # Hi, I'm Sebastian 👋
 ### Computer Science Student | Machine Learning Core & AI Engineering
 
-I am a passionate Computer Science student at **Universidad del Cauca**, currently in my 6th semester. My focus is on understanding the **mathematical and theoretical foundations** of Artificial Intelligence, moving beyond high-level abstractions to build systems from the ground up.
+I am a passionate Computer Science student, currently in my 6th semester. My focus is on understanding the **mathematical and theoretical foundations** of Artificial Intelligence, moving beyond high-level abstractions to build systems from the ground up.
 
 ---
 
